@@ -11,7 +11,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
 
         for (; ; ) {
-            do {
+            do {/*task selection menu*/
                 System.out.println("Please select the job number:");
                 System.out.println(" 1 Candies");
                 System.out.println(" 2 Secretary Jeniffer");
